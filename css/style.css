@@ -1,3 +1,11 @@
+img,video{
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+
+
+
 .navlist li
 {
     display: inline; /* brings nav elements up next to each other */
